@@ -6,7 +6,7 @@
 Sou engenheira de controle e automação por formação e em transição de carreira para a área tech em front-end. Sou técnica em informática e foi neste curso que me identifiquei tanto com a área. 
 
 - 🔭 Desde fevereiro de 2023 tornei público e efetivo o meu desejo em me tornar desenvolvedora. E então, deixei o meu emprego CLT como engenheira de automação no setor de alumínio e passei a me dedicar totalmente aos estudos de desenvolvimento de software. 
-- 🌱 No momento, sigo apredendo cada dia um pouco mais de Javascript (DOM, elementos, eventos e métodos. 
+- 🌱 No momento, sigo apredendo cada dia um pouco mais de Javascript (DOM, elementos, eventos e métodos e uma infinidade de novos conceitos), colocando sempre em prática nos projetos. 
 - 👯 Busco oportunidades de nível junior, na stack front-end que é onde mais tenho habilidades desenvolvidas. Também procuro vagas de trainee tech.
 - 😄 Meus pronomes são: ela/dela.
 
